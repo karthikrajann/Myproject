@@ -1,7 +1,6 @@
-hello world modified master
-newline added in Github
+hello world modified mastemodified second line
 second line
 sdfsdfsd
 third line
 update index
-add clone comment
+f2 added
