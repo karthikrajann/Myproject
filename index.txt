@@ -1,6 +1,5 @@
-hello world modified maste
+hello world modified master
 newline added in Github
-
 second line
 sdfsdfsd
 third line
