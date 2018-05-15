@@ -1,5 +1,5 @@
 hello world modified maste
-
+newline added in Github
 
 second line
 sdfsdfsd
