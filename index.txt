@@ -1,8 +1,6 @@
-hello world modified maste
-
-
+hello world modified mastemodified second line
 second line
 sdfsdfsd
 third line
 update index
-Github f2 updated
+newline f1
