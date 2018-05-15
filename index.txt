@@ -4,3 +4,4 @@ sdfsdfsd
 third line
 update index
 newline f1
+f2 added
